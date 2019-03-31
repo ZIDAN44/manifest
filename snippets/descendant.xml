@@ -58,7 +58,6 @@
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="descendant" revision="TwoDotTwo_staging"/>
   <project path="packages/apps/WeatherClient" name="packages_apps_WeatherClient" remote="descendant" revision="TwoDotTwo_staging"/>
   <project path="prebuilts/gradle" name="prebuilts_gradle" remote="descendant" revision="master"/>
-  <project path="vendor/oem/extras" name="vendor_oem_extras" remote="descendant" revision="TwoDotTwo_staging"/>
   <project path="hardware/qcom/power" name="hardware_qcom_power" remote="descendant" revision="TwoDotTwo_staging"/>   
   <project path="hardware/qcom/camera" name="hardware_qcom_camera" remote="descendant" revision="TwoDotTwo_staging" />
 
