@@ -57,7 +57,8 @@
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="descendant" revision="TwoDotOne_ds"/>
   <project path="packages/apps/WeatherClient" name="packages_apps_WeatherClient" remote="descendant" revision="TwoDotOne_ds"/>
   <project path="prebuilts/gradle" name="prebuilts_gradle" remote="descendant" revision="master"/>
-  
+  <project path="packages/apps/SnapdragonCamera" name="packages_apps_SnapdragonCamera" remote="descendant" revision="TwoDotOne_ds" />
+
   <!-- Sepolicy -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="descendant" revision="TwoDotOne_ds" />
 
